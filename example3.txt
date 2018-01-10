@@ -2,5 +2,9 @@ itsw example3
 
 its edited file
 
+<<<<<<< HEAD
 
 its edited locally for test merge
+=======
+ites edited in web UI
+>>>>>>> origin/master
